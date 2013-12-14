@@ -9,4 +9,4 @@ now it only support windows , will be supported Linux in future .
 * [Download exe from here](http://pan.baidu.com/share/link?shareid=3927126195&uk=2365653986)
 
 ####Screenshot
-![screenshot](https://raw.github.com/Awesomez-Qt/IRuler/master/screenshot.png "Default")
+![screenshot](https://raw.github.com/Awesomez/IRuler/master/screenshot.png "Default")
